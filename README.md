@@ -10,7 +10,10 @@ Bich'e pole (Kronshtadt) the airfield is located near St. Petersburg, in Kronsta
 It is a small unclassified day-use airfiels of the Leningrad naval base. It is intended for joint use by aircraft of the Ministry of defense of the Russian Federation (occasional flights) and light-engine aircraft of the experimental design Bureau and the Dolphin Aero club.
 
 #### Latest Stable Release
-ver. 0.1.0b
+
+This is the recommended stable release, as it has been thoroughly tested.
+
+[Download stable release here.](https://github.com/egoroffse/kronshtadt/releases/tag/v.0.1.0b)
 
 ## Installation
 

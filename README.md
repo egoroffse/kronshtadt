@@ -13,7 +13,7 @@ It is a small unclassified day-use airfiels of the Leningrad naval base. It is i
 
 This is the recommended stable release, as it has been thoroughly tested.
 
-[Download stable release here.](https://github.com/egoroffse/kronshtadt/releases/tag/v.0.1.0b)
+[Download stable release here.](https://github.com/egoroffse/kronshtadt/releases)
 
 ## Installation
 

@@ -1,5 +1,5 @@
 # Kronshtadt UKRO(ULLY)
-![GitHub latest release version](https://img.shields.io/docker/v/egoroffse/kronshtadt)
+![GitHub latest release version](https://img.shields.io/docker/v/egoroffse/kronshtadt/0.1.0b)
 
 
 

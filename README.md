@@ -1,5 +1,5 @@
 # Kronshtadt UKRO(ULLY)
-(https://badgen.net//badge/stars/★★★★☆)
+
 
 ## About
 

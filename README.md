@@ -1,7 +1,5 @@
 # Kronshtadt UKRO(ULLY)
-![GitHub latest release version](https://img.shields.io/docker/v/egoroffse/kronshtadt/0.1.0b)
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
-
+/badge/stars/★★★★☆
 
 ## About
 

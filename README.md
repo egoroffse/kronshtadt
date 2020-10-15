@@ -1,5 +1,5 @@
 # Kronshtadt UKRO(ULLY)
-
+![egoroffse](https://img.shields.io/badge/version-v.0.1.3-green)
 
 ## About
 

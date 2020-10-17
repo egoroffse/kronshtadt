@@ -7,8 +7,8 @@
     },
     {
       "path": "manifest.json",
-      "size": 1337,
-      "date": 132473838127660263
+      "size": 912,
+      "date": 132474467472294689
     },
     {
       "path": "MaterialLibs/mymaterials/Library.xml",
@@ -42,13 +42,13 @@
     },
     {
       "path": "scenery/global/scenery/objects.bgl",
-      "size": 188095,
-      "date": 132473838126403160
+      "size": 189107,
+      "date": 132474473541784422
     },
     {
       "path": "scenery/global/scenery/SHAPES.BGL",
-      "size": 5917,
-      "date": 132473838126902725
+      "size": 5431,
+      "date": 132474473542185130
     },
     {
       "path": "scenery/world/scenery/objects.bgl",

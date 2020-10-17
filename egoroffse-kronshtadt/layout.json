@@ -7,13 +7,13 @@
     },
     {
       "path": "manifest.json",
-      "size": 363,
-      "date": 132472012998677259
+      "size": 1337,
+      "date": 132473838127660263
     },
     {
       "path": "MaterialLibs/mymaterials/Library.xml",
       "size": 915,
-      "date": 132471837581509951
+      "date": 132473838120482518
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/WATER.JPG.DDS",
@@ -31,9 +31,24 @@
       "date": 132471837603040606
     },
     {
+      "path": "ReadMe.txt",
+      "size": 3438,
+      "date": 132472879398567609
+    },
+    {
       "path": "scenery/global/scenery/modelLib.BGL",
       "size": 9366,
-      "date": 132471931813592159
+      "date": 132473838675166475
+    },
+    {
+      "path": "scenery/global/scenery/objects.bgl",
+      "size": 188095,
+      "date": 132473838126403160
+    },
+    {
+      "path": "scenery/global/scenery/SHAPES.BGL",
+      "size": 5917,
+      "date": 132473838126902725
     },
     {
       "path": "scenery/world/scenery/objects.bgl",

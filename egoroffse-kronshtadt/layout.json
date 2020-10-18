@@ -6,19 +6,14 @@
       "date": 132398909780000000
     },
     {
-      "path": "manifest.json",
-      "size": 912,
-      "date": 132474473542783434
-    },
-    {
       "path": "MaterialLibs/mymaterials/Library.xml",
       "size": 915,
-      "date": 132473838120482518
+      "date": 132474568366499448
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/WATER.JPG.DDS",
       "size": 10915796,
-      "date": 132471837603150512
+      "date": 132474568393403712
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/water.jpg.DDS.FLAGS",
@@ -28,37 +23,22 @@
     {
       "path": "MaterialLibs/mymaterials/Textures/WATER.JPG.DDS.json",
       "size": 232,
-      "date": 132471837603040606
-    },
-    {
-      "path": "ReadMe.txt",
-      "size": 3438,
-      "date": 132472879398567609
+      "date": 132474568392800275
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
       "size": 9366,
-      "date": 132473838675166475
+      "date": 132474568405801127
     },
     {
       "path": "scenery/global/scenery/objects.bgl",
       "size": 194973,
-      "date": 132474554314472739
+      "date": 132474568410502320
     },
     {
       "path": "scenery/global/scenery/SHAPES.BGL",
       "size": 5589,
-      "date": 132474554314876093
-    },
-    {
-      "path": "scenery/world/scenery/objects.bgl",
-      "size": 187905,
-      "date": 132472040442151404
-    },
-    {
-      "path": "scenery/world/scenery/SHAPES.BGL",
-      "size": 5917,
-      "date": 132472040442712296
+      "date": 132474568411002712
     }
   ]
 }

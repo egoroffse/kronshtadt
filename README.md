@@ -10,6 +10,12 @@ This is the recommended stable release, as it has been thoroughly tested.
 #### Attention!
 ICAO code of Kronshtadt airfield is UKRO, not ULLY. For this moment it's undecided problem.
 
+#### Unstable Master Branch Build
+
+This has the latest features, but is much more unstable, use at your own risk.
+
+[Download developer build here](https://github.com/egoroffse/kronshtadt/archive/master.zip)
+
 ### About
 
 Kronshtadt UKRO (ULLY) scenery for Microsoft Flight Simulator 2020.

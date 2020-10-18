@@ -8,7 +8,7 @@
   "minimum_game_version": "1.9.5",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.1.4 RELEASED OCTOBER 18, 2020\\n",
+      "LastUpdate": "VERSION 0.1.4 RELEASED OCTOBER 18, 2020\\n- reworked grass texture around airport\n- corrected polygons size of grass and trees\n- new roads\n- new objects\n- new runway lights \n- small changes \n- fixed knowns bugs\n",
       "OlderHistory": "VERSION 0.1.0 RELEASED OCTOBER 13, 2020\\ninitial release\\nVERSION 0.1.1 RELEASED OCTOBER 14, 2020\\nAdded\n- Runway hold short line\n- Roads on the territory of the airport for cars and vehicles\n- Forest polygons in missing places\n- Hangar for planes on the Added\n- New grass texture\n- New ground texture\n- New static cars texture\n- New hangar with compare objects\n- New street lights\n- Taxiways marking\n- New objects around\nChanged\n- Grass, trees and roads polygons corrected\n- Numbering of taxing fixed\n- Runway elevation fixed"
     }
   }

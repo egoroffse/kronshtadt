@@ -8,8 +8,7 @@ This is the recommended stable release, as it has been thoroughly tested.
 [Download stable release here](https://github.com/egoroffse/kronshtadt/releases)
 
 #### Attention!
-ICAO code of Kronshtadt airfield is UKRO, not ULLY
-For this moment it's undecided problem.
+ICAO code of Kronshtadt airfield is UKRO, not ULLY. For this moment it's undecided problem.
 
 ## About
 

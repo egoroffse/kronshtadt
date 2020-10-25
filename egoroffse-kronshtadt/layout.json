@@ -6,54 +6,49 @@
       "date": 132398909780000000
     },
     {
-      "path": "manifest.json",
-      "size": 1088,
-      "date": 132476345021723834
-    },
-    {
       "path": "scenery/global/scenery/modelLib.BGL",
       "size": 11794,
-      "date": 132476350229878403
+      "date": 132481172421858806
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SDPSTART_ALBEDO.PNG.DDS",
       "size": 2796344,
-      "date": 132476345018200226
+      "date": 132481172421451413
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SDPSTART_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132476345018120298
+      "date": 132481172421390800
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SDPSTART_COMP.PNG.DDS",
       "size": 1398256,
-      "date": 132476345010807575
+      "date": 132481172413291402
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SDPSTART_COMP.PNG.DDS.json",
       "size": 160,
-      "date": 132476345010707412
+      "date": 132481172413241364
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SDPSTART_EMISSIVE.PNG.DDS",
       "size": 699192,
-      "date": 132476345010206576
+      "date": 132481172411412832
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SDPSTART_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 132476345010006273
+      "date": 132481172411387554
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 196802,
-      "date": 132476350231127786
+      "size": 197686,
+      "date": 132481172423624602
     },
     {
       "path": "scenery/world/scenery/SHAPES.BGL",
-      "size": 5606,
-      "date": 132476345020957102
+      "size": 5607,
+      "date": 132481172424191793
     }
   ]
 }

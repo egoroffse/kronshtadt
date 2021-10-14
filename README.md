@@ -1,20 +1,15 @@
 # Kronshtadt UKRO (ULLY)
 ![egoroffse](https://img.shields.io/badge/version-v.0.1.6-green)
 
+#### Attention!
+ICAO code of Kronshtadt airfield is UKRO, not ULLY. For this moment it's undecided problem.
+
 #### Latest Stable Release
 
 This is the recommended stable release, as it has been thoroughly tested.
 
 [Download stable release here](https://github.com/egoroffse/kronshtadt/releases)
 
-#### Attention!
-ICAO code of Kronshtadt airfield is UKRO, not ULLY. For this moment it's undecided problem.
-
-#### Unstable Master Branch Build
-
-This has the latest features, but is much more unstable, use at your own risk.
-
-[Download developer build here](https://github.com/egoroffse/kronshtadt/archive/master.zip)
 
 ### About
 
